@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apologie for the six book-sellers, subscribers of the second Beacon fired. Or, A vindication of them from the foul and unjust aspersions cast upon them by M. John Goodwin in a late pamphlet intituled A fresh discovery of the high Presbyterian spirit. Together with brief observations upon some remarkable passages in the said book. / By one that subscribes not his name, because he confesseth himself to be nullius nominis.</title>
+            <author>Nullius Nominus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75507</idno>
+            <idno type="STC">Wing A3557</idno>
+            <idno type="STC">Thomason E826_8</idno>
+            <idno type="STC">ESTC R10427</idno>
+            <idno type="EEBO-CITATION">99858837</idno>
+            <idno type="PROQUEST">99858837</idno>
+            <idno type="VID">110896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110896)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E826[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apologie for the six book-sellers, subscribers of the second Beacon fired. Or, A vindication of them from the foul and unjust aspersions cast upon them by M. John Goodwin in a late pamphlet intituled A fresh discovery of the high Presbyterian spirit. Together with brief observations upon some remarkable passages in the said book. / By one that subscribes not his name, because he confesseth himself to be nullius nominis.</title>
+                  <author>Nullius Nominus.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. for Matthew Keinton at the Fountain in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This pamphlet was one of a series in a controversy over the publication of seditious or blasphemous works.</note>
+                  <note>Annotations on Thomason copy: "Jan. 28 1654"; the final '5' in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665. --  Fresh discovery of the high-Presbyterian spirit.</term>
+               <term>Second beacon fired --  Early works to 1800.</term>
+               <term>Press law --  Great Britain --  Early works to 1800.</term>
+               <term>Freedom of the press --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110896:1" rendition="simple:additions"/>
+            <p>AN APOLOGIE FOR THE SIX BOOK-SELLERS, Subſcribers of the ſecond <hi>BEACON</hi> fired.</p>
+            <p>OR, A VINDICATION of them from the foul and unjuſt aſperſions caſt upon them by M. <hi>John Goodwin</hi> in a late Pamphlet <hi>INTIT<g ref="char:V">Ʋ</g>LED</hi> A FRESH DISCOVERY OF THE HIGH <hi>PRESBYTERIAN SPIRIT.</hi>
+            </p>
+            <p>
+               <hi>Together</hi> With brief Obſervations upon ſome remar<g ref="char:EOLhyphen"/>kable paſſages in the ſaid Book.</p>
+            <p>By one that ſubſcribes not his name, becauſe he con<g ref="char:EOLhyphen"/>feſſeth himſelf to be <hi>N<g ref="char:V">Ʋ</g>LLI<g ref="char:V">Ʋ</g>S NOMINIS.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl> He that is firſt in his own cauſe ſeemeth juſt, but his neighbour cometh and ſearcheth him.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. G.</hi> for <hi>Matthew Keinton</hi> at the <hi>Foun<g ref="char:EOLhyphen"/>tain</hi> in <hi>Pauls</hi> Church-yard. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110896:2"/>
+            <pb n="3" facs="tcp:110896:2"/>
+            <head>An <hi>APOLOGY.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the peruſal of divers late printed papers, &amp;c. I found one intituled, <hi>The ſecond Beacon fi<g ref="char:EOLhyphen"/>red,</hi> wherein (as in the firſt) the zealous and religious Authours (for ſo they were, however M. <hi>Goodwin</hi> may fancy, he ſees ſome other hand in it) did ſeaſonably repreſent to the <hi>Lord Protector</hi> and <hi>Parliament,</hi> divers of the reigning ſins and ſpreading errors of the times, among which they had the hap to meet with one (as they might have met with many) out of a certain book that calls M. <hi>Goodwin</hi> Father, which is this; <q>That in caſe any aſſurance of the unchangeableneſſe of Gods love were to be found in, or regularly deduced from the Scrip<g ref="char:EOLhyphen"/>tures, it were a juſt ground to any intelligent man to queſti<g ref="char:EOLhyphen"/>on their Authority, and whether they were from God or no.</q> 
+               <hi>Redemption redeemed, p.</hi> 335.</p>
+            <p>At this M. <hi>Goodwin</hi> takes fire, and preſently an angry Pam<g ref="char:EOLhyphen"/>phlet comes out, wherein this great <hi>Presbytero-Maſtix,</hi> and <hi>Antiſionita</hi> (Colledge or Church, chuſe you whether, ſome men think the Church hath fared the worſe for the Colledges ſake) cries out of Antichriſtian dealing, falſification; &amp;c. (as M. <hi>Goodwin</hi> never wants Rhetorick of that ſtrain.)</p>
+            <p>This furious out-cry made me turn in and ſee what the matter was; and after ſearch, I found the omiſſion of one word <hi>ſuch</hi> hath by a ſtrange kind of multiplication produ<g ref="char:EOLhyphen"/>ced a thouſand, wherein he renders them to the world as guilty of no leſs then forgery and calumniation.</p>
+            <p>Poſſibly ſome may wonder, that M: <hi>Goodwin</hi> ſhould cry
+<pb n="4" facs="tcp:110896:3"/> out of calumniation, who hath ſo far profited in that Art, that he is not aſhamed to proſtitute the ſentences of <hi>Calvin, Piſcator, Paraeus,</hi> the Synod of <hi>Dort,</hi> &amp;c. to the maintenance of thoſe <hi>Arminian</hi> Doctrines, which all the world knows their ſouls abhorred, except this be the drift of it, That the world may be poſſeſſed with an opinion of the grandeur of Maſter <hi>Goodwins</hi> parts, who can <hi>ex quolibet ligno Mercurium facere,</hi> and <hi>quidlibet ex quolibet probare;</hi> or elſe this ſtupendious Con<g ref="char:EOLhyphen"/>ciliator hath put an end to this jangling controverſie, and made theſe, hitherto thought irreconcileable (not only per<g ref="char:EOLhyphen"/>ſons, but cauſes) to think and ſpeak the ſame things.</p>
+            <p>Theſe things when I conſidered, the deſire of relieving op<g ref="char:EOLhyphen"/>preſſed innocence, a willingneſs to teſtifie that my heart is towards thoſe zealous aſſertours of Gods glory, and oppo<g ref="char:EOLhyphen"/>ſer of M. <hi>Goodwins</hi> great <hi>Diana,</hi> that accurſed Idoll of To<g ref="char:EOLhyphen"/>leration, a fear leſt the truth ſhould ſuffer upon ſuch a pre<g ref="char:EOLhyphen"/>tended miſtake, a deſire to beget a right underſtanding in thoſe that poſſibly may, by M. <hi>Goodwins</hi> high and mighty confidence, be drawn into this perſwaſion, that he hath re<g ref="char:EOLhyphen"/>ceived ſome conſiderable injury; Theſe things have forced me to this preſent Vindication.</p>
+            <p>Maſter <hi>Goodwins</hi> great charge is, that the Book-ſellers proceed <hi>à tanto,</hi> or <hi>tali, ad totum,</hi> and becauſe he denies ſuch unchangeableneſs, they charge him with denying any un<g ref="char:EOLhyphen"/>changeableneſs, which indeed may at firſt glance ſeem a per<g ref="char:EOLhyphen"/>verſion of his mind; but if things be impartially weighed, it will evidently appear, that however there is ſome difference of words, yet the ſenſe is the ſame.</p>
+            <p>For 1. I am well aſſured, having had much conference with the Book-ſellers ſince, &amp;c. that it was not wilfully, or maliciouſly left out, to deprave his meaning, and render him more odious then he deſerved. And in this the Authours of it do ſolemnly make their appeal to that God to whom they muſt give an account.</p>
+            <p n="2">2. The true reaſon why the word <hi>ſuch</hi> was left out, was, becauſe it was a relative term, and ſo if it had been expreſſed, would have neceſſitated the tranſcription of a far larger pro<g ref="char:EOLhyphen"/>portion of M. <hi>Goodwins</hi> words, (who doth not uſe to write
+<pb n="5" facs="tcp:110896:3"/> 
+               <hi>magnum in parvo</hi>) then the nature of that work would per<g ref="char:EOLhyphen"/>mit.</p>
+            <p n="3">3. That aſſurance (which the firers of the Beacon ſpeak of) of the unchangeableneſs of Gods love, which they im<g ref="char:EOLhyphen"/>plicitly aſſert, and with the denial whereof they charge Mr. <hi>Goodwin,</hi> is well known (to the <hi>Lord Protector, Parliament,</hi> and all intelligent men) to be that very ſame which M. <hi>Good<g ref="char:EOLhyphen"/>win</hi> oppoſeth, to wit, an unchangeableneſs of Gods love to ſuch and ſuch particular perſons, though poſſibly they may fall into ſin fouly, and lie in ſin too long, as was the caſe of <hi>David, Solomon,</hi> &amp;c. And this is that which M. <hi>Goodwin</hi> means by ſuch unchangeableneſs, though he repreſents it in more hideous expreſſions. And this Dilemma M. <hi>Goodwin</hi> is de<g ref="char:EOLhyphen"/>ſired to conſider of, either that ſuch unchangeableneſs he ſpeaks of, is the unchangeableneſs which his adverſaries aſ<g ref="char:EOLhyphen"/>ſert, or it is not; if it be not, then he calumniates when he faſtens it upon them, and draws this horrid inference from it; if it be, then they have done him no wrong, nor is there ſo much difference betwixt any unchangeableneſs and any ſuch unchangeableneſs, as was pretended.</p>
+            <p n="4">4. Let it be conſidered, that M. <hi>Goodwin</hi> doth frequently deny, and his whole diſpute is levied againſt the unchangea<g ref="char:EOLhyphen"/>bleneſs of Gods love (I am not ignorant, he confidently tells us, that in his judgement Gods love is unchangeable, as it is no new thing for a ſpirit of errour to be accompanied with a ſpirit of contradiction.) Whether M. <hi>Goodwin</hi> aſſerts the unchangeableneſs of Gods love, as well as we, and ſo whe<g ref="char:EOLhyphen"/>ther the Book-ſellers have wronged him, let the impartial Reader judge by theſe paſſages, (taken word for word out of his writings, leſt he ſhould ſay he is wronged) <hi>c.</hi> 13. § 33. <hi>pag.</hi> 335. <hi>Whether any ſuch aſſurance of the unchange<g ref="char:EOLhyphen"/>ableneſſe of the love of God towards him that is godly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Objection ſpeaks of, can be effectually, and upon ſuf<g ref="char:EOLhyphen"/>ficient grounds given unto men, is very queſtionable; Yea, I conceive there is more reaſon to judge otherwiſe then ſo.</hi> There you ſee his Scepticiſm. Yea, he doth not only queſtion that aſſurance, &amp;c. but the very poſſibility of it; and <hi>c.</hi> 10. § 41. <hi>p.</hi> 207. <hi>To reaſon thus, If God ſhould
+<pb n="6" facs="tcp:110896:4"/> love a man to day, and hate him to morrow, it would ar<g ref="char:EOLhyphen"/>gue a ſtrange inconſtancy or mutability in God, or in his love, is a very inconſiderate and weak reaſoning.</hi> And a little before in the ſame Section, <hi>In caſe God ſhall deſtroy with eternal death, ſuch men and women, whom he ſome<g ref="char:EOLhyphen"/>times truly loved, and reſpected dearly, this doth not ne<g ref="char:EOLhyphen"/>ceſſarily argue the leaſt change or alteration in any attri<g ref="char:EOLhyphen"/>bute of his whatſoever, as either Love, Goodneſſe, Mercy,</hi> &amp;c. Whether this doth not argue alteration, to love to day, to hate to morrow, I leave to all thoſe to judge that have their ſenſes exerciſed to diſcern between good and evil. And whereas M. <hi>Goodwins ſalvo</hi> is this, Gods love is the ſame, he always loves righteouſneſs, and hates unrighteouſneſs, and ſo there is no alteration in him, but in the perſon beloved; I anſwer, there is a twofold love in God, a love to righteouſ<g ref="char:EOLhyphen"/>neſs, a love to perſons; the former is unchangeable I confeſs according to M. <hi>Goodwin,</hi> but the latter (about which the difference lies) M. <hi>Goodwin</hi> makes changeable, which may appear by this ſimilitude. A Prince that loves a loyal and faithful ſubject, but when he proves diſloyal, he hates him. Will any man deny that the Princes affections are changed? and yet he continues to love loyalty, and hate diſloyalty. A Judge that loves righteouſneſs, and hates iniquity unchange<g ref="char:EOLhyphen"/>ably, loves his friend, if he be righteous; if he turn wicked, he hates him, and puniſhes him. Can any deny that there is a change in him? So in this caſe, if God loves to day, and hates to morrow, is not here a change? It is true, the ori<g ref="char:EOLhyphen"/>ginal cauſe of the change, in all theſe caſes, is the perſon of<g ref="char:EOLhyphen"/>fending, but ſtill the ſubject of the change, (according to this Hypotheſis) is, as the Prince and the Judge, ſo God him<g ref="char:EOLhyphen"/>ſelf; and ſo God is, according to M. <hi>Goodwins</hi> doctrine, (as M. <hi>Goodwin</hi> hath proved himſelf to be) not unchangeable, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>And if God be not altered in this caſe, M. <hi>Goodwin</hi> is deſi<g ref="char:EOLhyphen"/>red to tell us what alteration is, or when a perſon may be ſaid to be changed in regard of his mind or affections. If Maſter <hi>Goodwin</hi> mean to make this good, he muſt (as he hath done in part) bring into the world a new Philoſophy, as he hath done a new Divinity.</p>
+            <pb n="7" facs="tcp:110896:4"/>
+            <p>Again, this dreadful conſequence which is juſtly charged upon M. <hi>Goodwin,</hi> not only is hanged upon this ſuch unchan<g ref="char:EOLhyphen"/>geableneſs, (which he would have to be thought to be ſome other and higher degree of it then men dare to aſſert) but doth no leſs truly flow from other paſſages in his Book, where this word <hi>ſuch</hi> is not found. I will uſe but one argu<g ref="char:EOLhyphen"/>ment, which is <hi>c.</hi> 13. § 37. <hi>arg.</hi> 8. It is too large to tranſcribe, the ſum of it (I appeal to M. <hi>Goodwin</hi>) is this, That doctrine w<hi rend="sup">ch</hi> evacuates &amp; turns into weakneſs &amp; folly all that gracious counſel of the H. Ghoſt, &amp;c. (theſe are his very words) muſt needs be a doctrine of vanity and errour: But ſuch is the com<g ref="char:EOLhyphen"/>mon doctrine of abſolute and infallible perſeverance, mark it, he ſaith the common doctrine; (and who ever doubted that the Book-ſellers meant that very thing?) Thence let me uſe this one Argument, That doctrine which in M. <hi>Goodwins</hi> judgement, evacuates and turns into weakneſs and folly all that gracious counſel of the H. Ghoſt, &amp;c. were it to be found in, or regularly deduced from the Scriptures, it were a juſt ground to any intelligent man to queſtion their Authority, and whether they were from God or no: But ſuch is the com<g ref="char:EOLhyphen"/>mon doctrine of abſolute and infallible perſeverance, <hi>Ergo,</hi> I confeſs the ſyllogiſme is ſomewhat long, (But M. <hi>Goodwin</hi> is a <hi>Ciceronian,</hi> he uſeth to diſpute in words at length, not in figures). The major I know he will grant; the minor he cannot deny, it is his own words; and I hope he will ſuffer the concluſion to paſs peaceably. And if ſo, M. <hi>Goodwin</hi> doth ſtil lie under the juſt imputation of that odious conſequence, which according to theſe other expreſſions of his is this; If the Scripture ſhould maintain the common doctrine of abſo<g ref="char:EOLhyphen"/>lute and infallible perſeverance, it were a juſt ground to any rational man to doubt of its divine Authority; which, let any ſober man judge what it differs from the words which the Book-ſellers uſe.</p>
+            <p>Nay more plainly, That <hi>ſuch unchangeableneſs</hi> is a neceſſary and unavoidable conſequence of the common doctrine of perſeverance, He often ſaith in his voluminous diſcourſe, and in hIs Letter to M. <hi>Caryl,</hi> annexed to his laſt piece, <hi>p.</hi> 78. upon this very particular occaſion, <hi>Nor do I wrong your doctrine of</hi> perſeverance, <hi>to the value of the leaſt hair on
+<pb n="8" facs="tcp:110896:5"/> your head, becauſe evident it is, that without</hi> SUCH an UNCHANGEABLENESSE <hi>ſuppoſed, the ſaid doctrine will neither have footing nor foundation to ſupport it.</hi> From hence with M <hi>Goodwins</hi> favour, I will try one ſyllogiſm, If the doctrine of ſuch unchangeableneſs, and the common doctrine of perſeverance are inſeparably joined together, and the one inevitably flows from the other, then that conſequence which follows from the one, follows alſo from the other: But the doctrine of ſuch unchangeableneſs, and the common do<g ref="char:EOLhyphen"/>ctrin of perſeverance, are inſeparably conjoined, &amp;c. nay, are to M. <hi>Goodwin</hi> one of the ſame. <hi>Ergo,</hi> the Book-ſellers did him no wrong, when they faſtened his odious conſequence to the common doctrine of Gods unchangeableneſs, which he there faſtens to <hi>ſuch unchangeableneſs.</hi>
+            </p>
+            <p>Nor doth M. <hi>Goodwin</hi> waſh off the guilt of this conſequence in his Letter to M. <hi>Caryl,</hi> where he hath theſe wordes; <hi>The ſtyle of the diſcourſe is built upon this foundation, That God cannot deny himſelf, he cannot blaſpheme himſelf.</hi> If therefore any Book contains any thing blaſphemous againſt God, the divine Authority of it might juſtly be queſtioned. But Mr. <hi>Goodwin</hi> ſhould conſider, that it is one thing when a Book contains ſomething which doth expreſly or undenyably blaſ<g ref="char:EOLhyphen"/>pheme God, (then M. <hi>Goodwins</hi> reaſoning were tolerable) but if it contain it only doubtfully, and by a remote and con<g ref="char:EOLhyphen"/>troverted conſequence, it is not modeſty (to uſe no harſher expreſſion) in M. <hi>Goodwin</hi> to ſay, if any thing be ſaid in the Scripture which his weak and dark (ſo all mens are) and pre<g ref="char:EOLhyphen"/>judicate apprehehenſions conceive repugnant to Gods holi<g ref="char:EOLhyphen"/>neſs, &amp;c. he may rationally doubt of the divinity of it: And truly Sir, to ſpeak impartially, if any man who believes the truth of the doctrine of perſeverance, ſhould uſe ſuch expreſ<g ref="char:EOLhyphen"/>ſions as theſe, <hi>If any unchangeableneſs of Gods love were to be found in, or regularly deduced from the Scriptures, it were juſt ground to any rational man to doubt of its divine Authority,</hi> I ſhould both queſtion his modeſty, and leſſe value his judge<g ref="char:EOLhyphen"/>ment. And yet I think, nay certain I am, he might ſhew as fair and fairer cards from reaſon and rational conſequence, a<g ref="char:EOLhyphen"/>gainſt the doctrine of Gods changeableneſs, then you can a<g ref="char:EOLhyphen"/>gainſt the unchangeableneſs of his love. I could tell Mr.
+<pb n="9" facs="tcp:110896:5"/> 
+               <hi>Goodwin</hi> of very conſiderable Authours, that in their higheſt de<g ref="char:EOLhyphen"/>bates on the behalf of the truth, when reaſon pleads the moſt ſtrong<g ref="char:EOLhyphen"/>ly for their doctrines, yet have ſo much ſobriety, as to put in this Proviſo, That if God in Scripture evidently ſay ſuch a thing, they wil receive it and conclude, that there reaſon miſtook in this, (as it commonly doth in other things) and I do not mean <hi>Lutherans</hi> nei<g ref="char:EOLhyphen"/>ther. And it is obſervable, the many words you ſpend to take off the odiouſneſs of your conſequence, do not at all prevail with M. <hi>Caryl</hi> to eat his words, nor in the leaſt to mitigate his cenſure of this paſſage. So that all theſe things conſidered, M. <hi>Goodwin</hi> was juſtly charged with denying, not only <hi>ſuch unchangeableneſs,</hi> but Gods unchangeableneſs, <hi>i. e.</hi> in that ſenſe in which the Orthodox aſſerted it.</p>
+            <p>But I have not yet done, I muſt needs have a little conference with Mr. <hi>Goodwin</hi> about ſome paſſages in his Book. And firſt, as for that tartneſs which you complain of in the language of the let<g ref="char:EOLhyphen"/>ter which the Book-ſellers ſent you, they do ingenuouſly acknow<g ref="char:EOLhyphen"/>ledge their errour in it, and as I have heard from them are ready to retract it, ſetting you a copy what you ought to do in the like caſe. M. <hi>Goodwins</hi> pen it is thought hath been as much dipt in gall as a<g ref="char:EOLhyphen"/>nother mans. Your ſcurrilous language towards the learned and reverend M. <hi>Walker,</hi> and in particular your bitter <hi>recipe</hi> which you preſcribe for him, as for one that is not <hi>co<g ref="char:cmbAbbrStroke">̄</g>pos ſui;</hi> Your elegant vari<g ref="char:EOLhyphen"/>ety of taunts, reproaches, &amp; moſt contumelious expreſſions towards M. <hi>Jenkins,</hi> which for the benefit of the Reader, he hath collected together in his <hi>Blind Guide, cum multis aliis,</hi> may make M. <hi>Goodwins</hi> cheeks change colour as oft as he chargeth the Book-ſellers or any others with ſcurrilous and unſeemly language.</p>
+            <p>For what you ſay in favour of all curſed and damnable doctrins, I mean for the toleration and againſt the ſuppreſſion of them, I ſhall hardly think that M. <hi>Goodwin</hi> is a man of ſo incompetent judgment, that his own conſcience is ſatisfied with what he hath ſaid, which I am the rather induced to believe, becauſe I remember M. <hi>Goodwins</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (ſo it was without any <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) wherein he hath ſet his wits, and the Scripture too upon the rack to maintain that Mon<g ref="char:EOLhyphen"/>ſter of univerſal liberty of conſcience, (as it is commonly, though unduely called). This Book M. <hi>Edwards</hi> did anſwer ſatisfyingly and convincingly in the judgement of any impartial man: A ſolid reply whereunto the world did and doth expect ere ever M. <hi>Good<g ref="char:EOLhyphen"/>win</hi> appeared upon the ſtage again in that cauſe, or elſe by ſilence
+<pb n="10" facs="tcp:110896:6"/> a confeſſion (which I am confident is the truth, and ſo I believe are thouſands beſides me) that he cannot anſwer it. For this I have obſerved to be one of his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to anſwer thoſe Books which are more ſinewous and unanſwerable, no otherwiſe then by contempt and ſilence. And ſo it ſeems M. <hi>Goodwin</hi> reſolves to anſwer thoſe two acute and learned Doctours, Dr. <hi>Owen,</hi> and Dr. <hi>Kendall,</hi> whoſe labours have had the high approbation of di<g ref="char:EOLhyphen"/>vers learned men, no whit inferiour to M. <hi>Goodwin,</hi> nor his con<g ref="char:EOLhyphen"/>gregation neither (though it is true, all mens taſtes are not of the ſame temper, <hi>&amp; non eſt diſputandum de guſtibus.</hi>) But, Sir, give me leave to tell you, that if you reſolve to anſwer thoſe two champi<g ref="char:EOLhyphen"/>ons in that manner, you will give many more cauſe to think what ſome already do, and what Sir <hi>Francis Netherſole</hi> called you, at leaſt that you are not many miles diſtant from his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſelf-condemned.</p>
+            <p>And now I have mentioned that ingenious Knight, I cannot but let the world know what kind of anſwer they may expect from Mr. <hi>Goodwin</hi> to Dr. <hi>Kendal,</hi> &amp;c. by repreſenting one of your an<g ref="char:EOLhyphen"/>ſwers to his charge (by which you may ſee that Mr. <hi>Goodwin</hi> ab<g ref="char:EOLhyphen"/>horres an ingenuous tractation, as much as he doth an high <hi>Preſ<g ref="char:EOLhyphen"/>byterian</hi>): Yet let not M. <hi>Goodwin</hi> twit me in the teeth with <hi>Ca<g ref="char:EOLhyphen"/>rolizing, Scotizing,</hi> (as he doth M. <hi>Jenkins,</hi> telling him alſo of his bands, &amp;c. moſt diſingenuouſly and barbarouſly, but moſt of all unbecoming him, who profeſſeth himſelf to be a man of moſt exquiſite conſtitution, and full of humility, ingenuity, &amp;c.) for I mention this only, to ſhew with what traſh M. <hi>Goodwin</hi> can (at leaſt makes many believe he doth) ſatisfie himſelf and his credulous congregation. Sir <hi>Francis</hi> accuſed M. <hi>Goodwin</hi> of inconſiſtency in his judgement, that in his <hi>Anti-Cavalieriſm,</hi> pa. 7. <hi>he hath</hi> theſe expreſſions, <hi>As for offering violence to the Kings perſon, &amp;c. we leave the proof of that to the Jeſuites—we conceive it to be the juſt Pre<g ref="char:EOLhyphen"/>rogative of the perſons of Kings IN WHAT CASE SOEVER to be ſecure from the violence of men, and their lives to be as conſecra<g ref="char:EOLhyphen"/>ted Corn meet to be reaped and gathered only by the hand of God him<g ref="char:EOLhyphen"/>ſelf.</hi> This paſſage Sir <hi>Francis</hi> oppoſeth to M. <hi>Goodwins</hi> juſtificati<g ref="char:EOLhyphen"/>on of that deſign of putting the King to the death. To this Mr. <hi>Goodwin</hi> replies, not by an ingenuous acknowledgement of his weakneſs, &amp;c. (which would better have becomed him) but by this profound anſwer, as you have it in his Pamphlet called <hi>The unrighteous Judge,</hi> p. 9, 10. That he meant it only of violence of<g ref="char:EOLhyphen"/>fered
+<pb n="11" facs="tcp:110896:6"/> from private men, not from Magiſtrates, and that what Ma<g ref="char:EOLhyphen"/>giſtrates do in a way of Juſtice, God himſelf may be ſaid to do. Thus M. <hi>Goodwins</hi> juſt Prerogative of Kings, (which no man that hath not his ſenſes ſodden into <hi>Trapezuntius</hi> his temper, to uſe Mr. <hi>Goodwins</hi> own phraſe, doubts but he meant of ſomething <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, proper to them, and I am perſwaded his conſcience tells him ſo) is levelled to that univerſal priviledge, which even the vileſt Rogue enjoyes, <hi>i. e.</hi> that it is unlawful for their lives to be taken away by any other then the hand of the Magiſtrate. Which is ſo manifeſt an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or ſelf-contradiction, that he that runs may read it. By this judge of this great Doctours <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I will not ſay <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>One or two paſſages more I cannot but obſerve: 1. His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that I ſay not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>p.</hi> 35. He brings in the teſtimo<g ref="char:EOLhyphen"/>ny of one (whom he calls as learned, grave, and judicious as any Engliſh born at this day) on the behalf of his Book about the Au<g ref="char:EOLhyphen"/>thority of the Scripture; <hi>That it was as good a Book as any was written ſince the Apoſtles days.</hi> This teſtimony ſaith M. <hi>Goodwin</hi> (I confeſs, <hi>if you do not many others do</hi>) may be as much too wide on the right hand, as your malignant imputation is on the left. Note how cautelouſly he ſpeaks it; he dare not ſay, it is too wide, but it may be, it is not impoſſible I confeſs, I thought Mr. <hi>Goodwin</hi> would have vailed the Bonnet to <hi>Mornay, Grotius,</hi> (or at leaſt to his <hi>Ca<g ref="char:EOLhyphen"/>mero</hi> upon that ſubject) though they have not ſuch a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor ſuch a mixture of errours there (that I remember) as Mr. <hi>Goodwin</hi> hath. But it ſeems (as he ſpeaks of Dr. <hi>Owen</hi> in relation to Dr. <hi>Kendal, p.</hi> 43.) he reſerved his high thoughts for his own writings.</p>
+            <p n="2">2. I Obſerve his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when he is charged with this abſurd aſſertion, That knowledge, &amp;c. is not attributed to God, any otherwiſe then eyes. It is not (ſaith he) for want of ignorance, that Dr. <hi>Kendall,</hi> Mr. <hi>Pool,</hi> and others contend againſt me for ſuch a ſaying. He cites a ſaying of <hi>Auſtins,</hi> We ſpeak few things properly of God. <hi>Sed quid hoc</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. We ac<g ref="char:EOLhyphen"/>knowledge this to be a great truth, but this knowledge is one of thoſe few: And for what Mr. <hi>Goodwin</hi> addes, <hi>It argues extream oſcitancy for a man to think that they ſpeak more honourably of God, who aſcribe unto him knwoledg properly as it is found in men, or other creatures, then they who attribute the ſame unto him by way of emi<g ref="char:EOLhyphen"/>nency
+<pb n="12" facs="tcp:110896:7"/> and tranſcendency of perfection, free from all the deficiency in men, &amp;c.</hi> But what a piece of oſcitancy, what <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is this, that Maſter <hi>Goodwin</hi> ſhould not underſtand, or elſe contra<g ref="char:EOLhyphen"/>ry to his underſtanding, relate our opinion? <hi>(utrum horum mavis, accipe):</hi> Did ever the Orthodox ſay, that knowledge is in God, as in men? &amp;c. Do they not free it from all imperfections? as much, Yea more, I am ſure, then Maſter <hi>Goodwin?</hi> wit<g ref="char:EOLhyphen"/>neſſe his imputing to God ignorance of future contingences, <hi>more Sociniano.</hi> But Maſter <hi>Goodwin</hi> would do well to rub up his Philoſophical notions, and to conſider, that knowledge is not the leſſe properly knowledge, becauſe it is freed from imperfe<g ref="char:EOLhyphen"/>ctions, but rather more properly. Shall any man abſurdly ſay, God is not properly holy, juſt, wiſe, merciful, becauſe theſe are not in God as they are in the creature? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I ſhall trou<g ref="char:EOLhyphen"/>ble Maſter <hi>Goodwin</hi> no farther, only thus: If he anſwer me as he hath anſwered Sir <hi>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ancis Netherſole,</hi> or Maſter <hi>Jenkins, &amp;c.</hi> I ſhall not trouble either him or the world with any Reply, but that which is his conſtant refuge in arduous caſes, I mean, that of ſilence. This only being added for parting, if Mr. <hi>Good<g ref="char:EOLhyphen"/>win</hi> doth not moderate the heat of his carriage and expreſſion, let him take heed leſt ſome deal by him as <hi>Lubbertus</hi> did by <hi>Vor<g ref="char:EOLhyphen"/>ſtius</hi> (one of his Maſters) who wrote a Book and intituled it <hi>Non aginta novem errores, &amp;c.</hi> The ninety nine errours of <hi>Con<g ref="char:EOLhyphen"/>radus Vorſtius,</hi> for ſome conceive Maſter <hi>Goodwins</hi> works will af<g ref="char:EOLhyphen"/>ford a Counter-part.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
